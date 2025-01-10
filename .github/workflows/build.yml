@@ -64,7 +64,7 @@ on:
         default: true
         type: boolean
       linux_mipsel:
-        description: yt-dlp_linux_mipsel, yt-dlp_linux_armv7l
+        description: yt-dlp_linux_mipsel
         default: true
         type: boolean
       macos:
